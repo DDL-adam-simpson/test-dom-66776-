@@ -4,7 +4,7 @@
                                                                                                                                                                                                                                                  
   ![subfolder image - SHOULD show](images/test2.png)                                                                                                                                                                                             
                                                                                                                                                                                                                                                  
-  ![deep nested - SHOULD show](assets/images/deep/test3.png)                                                                                                                                                                                     
+  ![deep nested - SHOULD show](images/deep/test3.png)                                                                                                                                                                                     
 
   ![absolute url - SHOULD show](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/240px-PNG_transparency_demonstration_1.png)
 
