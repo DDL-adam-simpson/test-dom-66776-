@@ -6,4 +6,4 @@
                                                                                                                                                                                                                                                  
   ![deep nested - SHOULD show](images/deep/test3.png)                                                                                                                                                                                     
 
-  For the absolute URL tests I used a real public image so you can actually verify they render, that way if they show up you know the regex didn't mangle them, and if the relative ones also show up you know the fix works end to end.
+All above images should show
